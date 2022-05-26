@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "54724465227",
+    "firebase_url": "https://alu-express-default-rtdb.firebaseio.com",
+    "project_id": "alu-express",
+    "storage_bucket": "alu-express.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54724465227:android:aa23c1681cf0eb8c7f33ce",
+        "android_client_info": {
+          "package_name": "com.example.alu_express"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "54724465227-tqp8bij9pq0ttk5q1qivjtjg87s5chqo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCJ2PmUYNVsnPD8_6Jmno0fr3TeDLBA3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "54724465227-tqp8bij9pq0ttk5q1qivjtjg87s5chqo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54724465227:android:a0598303e61198087f33ce",
+        "android_client_info": {
+          "package_name": "com.example.alu_express_student"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "54724465227-tqp8bij9pq0ttk5q1qivjtjg87s5chqo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCJ2PmUYNVsnPD8_6Jmno0fr3TeDLBA3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "54724465227-tqp8bij9pq0ttk5q1qivjtjg87s5chqo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
